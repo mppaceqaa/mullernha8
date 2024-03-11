@@ -1,0 +1,14 @@
+ #tekst1{
+    color:green;
+    margin-left:450px;
+}
+header{
+    background-color:#ff0000;
+    width:100%;
+    height:200px;
+}
+footer{
+    background-color:#0000FF;
+    width:100%;
+    height:200px;
+}
